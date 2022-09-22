@@ -1,6 +1,6 @@
 # Мое резюме
 
-![](https://disk.yandex.ru/d/-z37rOuLiFxfsg)
+![](https://github.com/SubHunt/portfolio/blob/main/img/Фото%203х4_1.jpg)
 
 Матофонов Сергей Владимирович.
 
